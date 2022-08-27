@@ -32,4 +32,5 @@ public class EmpService {
 	public void getSaveData(@RequestBody EmpModel oneDaa) {
 		empCont.saveData(oneDaa);
 	}
+	//New
 }
