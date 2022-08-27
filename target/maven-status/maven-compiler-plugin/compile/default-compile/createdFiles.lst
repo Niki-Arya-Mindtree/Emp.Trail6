@@ -1,0 +1,5 @@
+com\example\demo\Repository\Repository.class
+com\example\demo\Service\EmpService.class
+com\example\demo\Control\EmpControl.class
+com\example\demo\Model\EmpModel.class
+com\example\demo\Application.class
